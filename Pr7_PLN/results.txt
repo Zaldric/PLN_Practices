@@ -1,0 +1,80 @@
+People: 
+	Abdel Fattah: 1
+	Trump: 16
+	Sisi: 14
+	Barack Obama: 1
+	Eric Trager: 1
+	Near East Policy: 1
+	Hosni Mubarak: 1
+	Mubarak: 1
+	Egypt: 2
+	Trumps: 1
+	Vladimir V. Putin: 1
+	Fox Business Network: 1
+	Giulio Regeni: 1
+	Alessandra Ballerini: 1
+	Islam: 3
+	Sisis: 2
+	Arabic: 1
+	Aya Hijazi: 1
+	Muslim Brotherhood: 1
+	Hijazi: 1
+	Wade McMullen: 1
+	Robert F. Kennedy Human Rights: 1
+	Obama: 1
+	Amy Hawthorne: 1
+	Hawthorne: 1
+
+Organizations: 
+	WASHINGTON: 1
+	Washington Institute: 1
+	Muslim Brotherhoods Mohamed Morsi: 1
+	Sisi: 1
+	General Assembly: 1
+	Financial Times: 1
+	Suez Canal: 1
+	Republican: 1
+	Parliament: 1
+	Trump: 1
+	Islamic: 1
+	Muslim Brotherhood: 1
+
+No Location entities found in the text. 
+
+Geopolitical entities: 
+	Egypt: 12
+	United States: 5
+	American: 7
+	Trumps: 2
+	Cairo: 6
+	Sisis: 3
+	Egyptian: 3
+	Washington: 2
+	Trump: 2
+	Americas: 1
+	Middle Eastern: 1
+	Trumpian: 1
+	Palestinians: 1
+	Middle East: 2
+	Russia: 1
+	Sisi: 3
+	Egyptians: 3
+	Rome: 1
+	Italian: 1
+	Mexico: 1
+	Please: 1
+	China: 1
+	Turkey: 1
+	Western: 1
+	Sinai: 1
+	Middle East Democracy: 1
+	Islamism: 1
+	U.S.: 2
+
+Geo-social-political groups: 
+	Israelis: 1
+
+Facilities: 
+	White House: 4
+	Oval Office: 2
+

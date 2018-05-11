@@ -1,0 +1,40 @@
+COMPUTERS:
+	Nouns:	15239 (30.7%).
+	Adjectives:	2987 (6.02%).
+	Verbs:	7155 (14.42%).
+	Adverbs:	2504 (5.04%).
+MUSIC:
+	Nouns:	17606 (33.83%).
+	Adjectives:	3407 (6.55%).
+	Verbs:	6431 (12.36%).
+	Adverbs:	2452 (4.71%).
+HOTELS:
+	Nouns:	11993 (31.02%).
+	Adjectives:	2360 (6.1%).
+	Verbs:	5659 (14.64%).
+	Adverbs:	1925 (4.98%).
+COOKWARE:
+	Nouns:	7511 (28.57%).
+	Adjectives:	1829 (6.96%).
+	Verbs:	3976 (15.13%).
+	Adverbs:	1417 (5.39%).
+BOOKS:
+	Nouns:	9354 (29.57%).
+	Adjectives:	1793 (5.67%).
+	Verbs:	4692 (14.83%).
+	Adverbs:	1536 (4.85%).
+PHONES:
+	Nouns:	5373 (29.74%).
+	Adjectives:	1077 (5.96%).
+	Verbs:	2803 (15.52%).
+	Adverbs:	941 (5.21%).
+MOVIES:
+	Nouns:	11543 (31.25%).
+	Adjectives:	2171 (5.88%).
+	Verbs:	5380 (14.56%).
+	Adverbs:	1870 (5.06%).
+CARS:
+	Nouns:	17492 (31.12%).
+	Adjectives:	4144 (7.37%).
+	Verbs:	7614 (13.55%).
+	Adverbs:	3028 (5.39%).
